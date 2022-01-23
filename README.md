@@ -12,7 +12,7 @@ npm start
 # Build for prod
 npm run build
 ```
-###[screen](screen/thumbnail.png)
+### [screen](screen/thumbnail.png)
 
 
 
