@@ -12,7 +12,6 @@ npm start
 # Build for prod
 npm run build
 ```
-![screenshots](screenshots/thumbnail.png)
-
+![ScreenShot of Form](screenshots/duma.png)
 
 ### [Live](https://expense-trackerm90.netlify.app/)
